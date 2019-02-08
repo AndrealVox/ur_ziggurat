@@ -1,0 +1,21 @@
+{
+   "mixins": "stonehearth/scenarios/static/landmarks/qb_to_terrain.json",
+   "biomes": ["box_o_vox:biome:boxland", "stonehearth:biome:desert"],
+   "name": "ziggurat",
+   "category": "terrain_feature_common",
+   "unique": true,
+   "size": {
+      "width": 122,
+      "length": 96
+   },
+   "habitat_types": [
+      "plains"
+   ],
+   "overwrite_occupied_size": 20,
+   "weight": 654.5,
+   "data": {
+      "brush": "ur_ziggurat:landmark:ziggurat",
+      "brush_mask": "ur_ziggurat:landmark:ziggurat",
+      "landmark_block_types": "ur_ziggurat:landmark_blocks"
+   }
+}

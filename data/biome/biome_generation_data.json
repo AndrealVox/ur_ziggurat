@@ -1,0 +1,72 @@
+{
+   "palettes": {
+      "spring": {
+         "nevada": "#676D74",
+         "lunar_green": "#304435",
+         "himalaya": "#6E5B21",
+         "outer_space": "#2C3339",
+         "natural_gray": "#918D86",
+         "friar_gray": "#82807B",
+         "tapa": "#76726B",
+         "nutmeg": "#823E2D",
+         "sepia_skin": "#964D3B",
+         "irish_coffee": "#643124",
+         "verdigris": "#65573A",
+         "barley_corn_light": "#A59465",
+         "barley_corn": "#958455",
+         "barley_corn_dark": "#86764A",
+         "oil": "#302118"
+      },
+      "summer": {
+         "nevada": "#676D74",
+         "lunar_green": "#304435",
+         "himalaya": "#6E5B21",
+         "outer_space": "#2C3339",
+         "natural_gray": "#918D86",
+         "friar_gray": "#82807B",
+         "tapa": "#76726B",
+         "nutmeg": "#823E2D",
+         "sepia_skin": "#964D3B",
+         "irish_coffee": "#643124",
+         "verdigris": "#65573A",
+         "barley_corn_light": "#A59465",
+         "barley_corn": "#958455",
+         "barley_corn_dark": "#86764A",
+         "oil": "#302118"
+      },
+      "autumn": {
+         "nevada": "#676D74",
+         "lunar_green": "#304435",
+         "himalaya": "#6E5B21",
+         "outer_space": "#2C3339",
+         "natural_gray": "#918D86",
+         "friar_gray": "#82807B",
+         "tapa": "#76726B",
+         "nutmeg": "#823E2D",
+         "sepia_skin": "#964D3B",
+         "irish_coffee": "#643124",
+         "verdigris": "#65573A",
+         "barley_corn_light": "#A59465",
+         "barley_corn": "#958455",
+         "barley_corn_dark": "#86764A",
+         "oil": "#302118"
+      },
+      "winter": {
+         "nevada": "#676D74",
+         "lunar_green": "#304435",
+         "himalaya": "#6E5B21",
+         "outer_space": "#2C3339",
+         "natural_gray": "#918D86",
+         "friar_gray": "#82807B",
+         "tapa": "#76726B",
+         "nutmeg": "#823E2D",
+         "sepia_skin": "#964D3B",
+         "irish_coffee": "#643124",
+         "verdigris": "#65573A",
+         "barley_corn_light": "#A59465",
+         "barley_corn": "#958455",
+         "barley_corn_dark": "#86764A",
+         "oil": "#302118"
+      }
+   }
+}

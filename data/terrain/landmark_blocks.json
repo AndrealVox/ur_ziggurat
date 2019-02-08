@@ -1,0 +1,50 @@
+{
+   "#8BB270": {
+      "terrain_tag": "grass"
+   },
+   "#676D74": {
+      "terrain_tag": "nevada"
+   },
+   "#304435": {
+      "terrain_tag": "lunar_green"
+   },
+   "#6E5B21": {
+      "terrain_tag": "himalaya"
+   },
+   "#2C3339": {
+      "terrain_tag": "outer_space"
+   },
+   "#918D86": {
+      "terrain_tag": "natural_gray"
+   },
+   "#82807B": {
+      "terrain_tag": "friar_gray"
+   },
+   "#76726B": {
+      "terrain_tag": "tapa"
+   },
+   "#823E2D": {
+      "terrain_tag": "nutmeg"
+   },
+   "#964D3B": {
+      "terrain_tag": "sepia_skin"
+   },
+   "#643124": {
+      "terrain_tag": "irish_coffee"
+   },
+   "#65573A": {
+      "terrain_tag": "verdigris"
+   },
+   "#A59465": {
+      "terrain_tag": "barley_corn_light"
+   },
+   "#958455": {
+      "terrain_tag": "barley_corn"
+   },
+   "#86764A": {
+      "terrain_tag": "barley_corn_dark"
+   },
+   "#302118": {
+      "terrain_tag": "oil"
+   }
+}

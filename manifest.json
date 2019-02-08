@@ -1,0 +1,28 @@
+{
+   "info": {
+      "name": "The Great Ziggurat of Ur (Landmark)",
+      "namespace": "ur_ziggurat",
+      "version": 3,
+      "steam_file_id": "1647427367"
+   },
+   "default_locale": "en",
+   "aliases": {
+      "landmark_blocks": "file(data/terrain/landmark_blocks.json)",
+      "terrain_blocks": "file(data/terrain/terrain_blocks.json)",
+      "biome:generation": "file(data/biome/biome_generation_data.json)",
+      "landmark:ziggurat": "file(data/models/landmark/ziggurat/ziggurat.qb)",
+      "scenarios:scenario_index": "file(scenarios/scenario_index.json)"
+   },
+   "mixintos": {
+      "stonehearth:landmark_blocks": "ur_ziggurat:landmark_blocks",
+      "stonehearth:terrain_blocks": "ur_ziggurat:terrain_blocks",
+
+      "stonehearth:scenarios:scenario_index": "ur_ziggurat:scenarios:scenario_index",
+
+      "/stonehearth/data/biome/desert_generation_data.json": "ur_ziggurat:biome:generation",
+      "/box_o_vox/data/biome/boxland_generation_data.json": "ur_ziggurat:biome:generation"
+   },
+   "overrides": {},
+   "components": {},
+   "controllers": {}
+}

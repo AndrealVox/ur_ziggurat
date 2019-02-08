@@ -1,0 +1,7 @@
+{
+   "static": {
+      "scenarios": [
+         "file(static/landmarks/ziggurat.json)"
+      ]
+   }
+}

@@ -1,0 +1,64 @@
+{
+   "block_types": {
+      "nevada": {
+         "tag": 704,
+         "kind": "rock"
+      },
+      "lunar_green": {
+         "tag": 705,
+         "kind": "rock"
+      },
+      "himalaya": {
+         "tag": 706,
+         "kind": "rock"
+      },
+      "outer_space": {
+         "tag": 707,
+         "kind": "rock"
+      },
+      "natural_gray": {
+         "tag": 708,
+         "kind": "rock"
+      },
+      "friar_gray": {
+         "tag": 709,
+         "kind": "rock"
+      },
+      "tapa": {
+         "tag": 710,
+         "kind": "rock"
+      },
+      "nutmeg": {
+         "tag": 711,
+         "kind": "rock"
+      },
+      "sepia_skin": {
+         "tag": 712,
+         "kind": "rock"
+      },
+      "irish_coffee": {
+         "tag": 713,
+         "kind": "rock"
+      },
+      "verdigris": {
+         "tag": 714,
+         "kind": "rock"
+      },
+      "barley_corn_light": {
+         "tag": 715,
+         "kind": "rock"
+      },
+      "barley_corn": {
+         "tag": 716,
+         "kind": "rock"
+      },
+      "barley_corn_dark": {
+         "tag": 717,
+         "kind": "rock"
+      },
+      "oil": {
+         "tag": 718,
+         "kind": "rock"
+      }
+   }
+}
